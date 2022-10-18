@@ -54,7 +54,7 @@
         </a>
         <nav id="navbar" class="navbar col-md-12">
             <ul>
-            <li><a href="#hero">Home</a></li>
+            <li><a href="<?php echo base_url('Home')?>">Home</a></li>
             <li class="dropdown"><a href="#"><span>Profil PPID</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                 <li><a href="#">Profil Singkat PPID</a></li>

@@ -1,4 +1,15 @@
 <main id="main">
+      <!-- ======= Breadcrumbs ======= -->
+      <div class="breadcrumbs">
+      <nav>
+        <div class="container">
+          <ol>
+            <li>Anda berada di <a href="<?php echo base_url();?>">Beranda</a></li>
+            <li>Profil Singkat PPID</li>
+          </ol>
+        </div>
+      </nav>
+    </div><!-- End Breadcrumbs -->
 
     <!-- ======= Portfolio Details Section ======= -->
     <section id="portfolio-details" class="portfolio-details">
